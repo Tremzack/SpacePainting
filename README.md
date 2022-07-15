@@ -1,4 +1,4 @@
-
+# James Webb's Paintings
 A simple mod to add the new fantastic James Webb space telescope images in Minecraft as paintings!
 
 The plan is to add new images as as they're released on NASA's website.
