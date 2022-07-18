@@ -17,6 +17,7 @@ public class ModPaintings {
 
     public static final PaintingVariant STEPHEN_QUINTET_ROUGH = registerPainting("stephen_quintet_rough", new PaintingVariant(64,64));
 
+    public static final PaintingVariant JUPITER = registerPainting("jupiter", new PaintingVariant(16,16));
 
 
     private static PaintingVariant registerPainting (String name, PaintingVariant paintingVariant){
