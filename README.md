@@ -14,3 +14,5 @@ Feedback is greatly appreciated!
 ![](https://i.imgur.com/pkLsiRQ.png)
 ### Stephan's Quintet
 ![](https://i.imgur.com/P02HCZQ.png)
+### Jupiter
+![](https://i.imgur.com/92iGXH7.png)
